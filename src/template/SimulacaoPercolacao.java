@@ -1,14 +1,9 @@
 package template;
 
-import aesd.ds.implementations.nonlinear.uf.QuickFindUF;
-import aesd.ds.implementations.nonlinear.uf.QuickUnionUF;
 import aesd.ds.implementations.nonlinear.uf.UF;
-import aesd.ds.implementations.nonlinear.uf.WeightedQuickUnionPathCompressionUF;
 import aesd.ds.implementations.nonlinear.uf.WeightedQuickUnionUF;
 import br.com.davidbuzatto.jsge.core.engine.EngineFrame;
 import br.com.davidbuzatto.jsge.math.MathUtils;
-import java.util.ArrayList;
-import java.util.List;
 
 /**
  * Simulador de Percolação usando JSGE.
